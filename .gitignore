@@ -5,3 +5,8 @@ Program/last_email_id.txt
 Program/credentials.json
 Program/token.json
 Program/instagramToken.txt
+Program/appSecret.txt
+Program/appID.txt
+Program/Recipient_ID.txt
+Program/recipientID.txt
+Program/verifyToken.txt
