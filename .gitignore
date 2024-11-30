@@ -10,3 +10,5 @@ Program/appID.txt
 Program/Recipient_ID.txt
 Program/recipientID.txt
 Program/verifyToken.txt
+Program/.env
+Program/insta_session.json
