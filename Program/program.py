@@ -187,9 +187,9 @@ def summarize_email(content):
     try:
         openai.api_key = load_api_key()
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # Use the correct model
+            model="gpt-4",  # Use the correct model
             messages=[
-                {"role": "system", "content": "You are a bot that sends me summaries of my emails via instagram. your job is to take an email as input, generate a summary and respond by giving me a summary of what is said in that email. your response should be friendly and casual"},
+                {"role": "system", "content": "the prompts you recieve are emails from other people, and you should reply to me with a short summary of what is discussed. you are my friendly personal assistant"},
                 {"role": "user", "content": f"Email: {content}"}
             ],
             max_tokens=100,
