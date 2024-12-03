@@ -96,9 +96,11 @@ Contact Me
 
    - Contains the username and password for the account that you want to recieve messages from
 
-   Contents should look like this:
-      INSTA_USERNAME=Your_Bot_Account_Username
-      INSTA_PASSWORD=Your_Bot_Account_Password
+   - Contents should look like this:
+      - INSTA_USERNAME=Your_Bot_Account_Username
+      - INSTA_PASSWORD=Your_Bot_Account_Password
 
+```
 Feel free to contact me for support if you want help! I'm usually available on Instagram @_hi_its_matt
+```
 
