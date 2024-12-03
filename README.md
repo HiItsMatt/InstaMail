@@ -38,11 +38,11 @@ when I turn on my computer. checks the 10 most recent emails on startup, just in
 some while it wasnt running.
 ```
 ```
-Created By **Matthew Shanahan**
+Created By Matthew Shanahan
 Contact Me -
-    Instagram:  **_hi_its_matt**
-    Discord:    **hi_its_matt**
-    Email:      **hi.its.ma77@gmail.com**
+    Instagram:  _hi_its_matt
+    Discord:    hi_its_matt
+    Email:      hi.its.ma77@gmail.com
 ```
 **Want to use it for yourself? You've got two options:**
 
