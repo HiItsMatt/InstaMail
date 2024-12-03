@@ -34,7 +34,7 @@ Contact Me -
     Email:      hi.its.ma77@gmail.com
 ```
 
-**An Instagram Bot that checks your emails, summarises them using ChatGPT, and sends you the summaries in your Instagram inbox**
+## An Instagram Bot that checks your emails, summarises them using ChatGPT, and sends you the summaries in your Instagram inbox
 ```
 Uses the Gmail API, OpenAI API, and a library for accessing Instagram called Instagrapi
 Also uses pystray to run as a tray application
@@ -43,9 +43,9 @@ Has a batch file in the startup folder that runs it in the background so I dont 
 when I turn on my computer. checks the 10 most recent emails on startup, just in case it missed
 some while it wasnt running.
 ```
-**Want to use it for yourself? You've got two options:**
+## Want to use it for yourself? You've got two options:
 
-# Option 1: PAID || $2.50+/Month
+## Option 1: PAID || $2.50+/Month
 
 Contact me, I can add your gmail and username to the program running on my computer and
 you will start receiving email updates through instagram with no effort on your
@@ -61,7 +61,7 @@ I would love to offer this service for free - I write code out of passion
 instead of monetary incentive, but you can understand that it would get very
 expensive on my end if I offered this for free.
 
-# Option 2: FREE
+## Option 2: FREE
 
 Run this program locally on your own computer. This will take some effort as this
 github repository is missing some important files because they are secret
@@ -69,7 +69,7 @@ information and it would be unsafe to put on the internet.
    
 You WILL need to provide these files yourself for the program to work locally
 
-## Step 1: Generate Required Files
+### Step 1: Generate Required Files
 1a. Program/OpenAI_API_Key.txt
 ```
    The key to your OpenAI account. so OpenAI knows who to charge for the API
@@ -95,7 +95,7 @@ You WILL need to provide these files yourself for the program to work locally
       INSTA_USERNAME=Your_Bot_Account_Username
       INSTA_PASSWORD=Your_Bot_Account_Password
 ```
-## Step 2. You also need to copy the InstaMail.bzat file into your Startup Folder
+### Step 2. You also need to copy the InstaMail.bzat file into your Startup Folder
 ```
    2a. Open An instance of File Explorer and Navigate to the Project Directory
    2b. Press Windows + R to open Run
@@ -104,7 +104,6 @@ You WILL need to provide these files yourself for the program to work locally
 
    This will run a command on startup that runs the python script without opening a terminal window.
 ```
-
 
 Feel free to contact me for support if you want help! I'm usually available on Instagram @_hi_its_matt
 
