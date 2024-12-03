@@ -52,9 +52,11 @@ Contact Me
 ## Option 2: FREE
 
 - Run this program locally on your own computer. This will take some effort as this github repository is missing some important files because they are secret information and it would be unsafe to put on the internet.
-- You will need to provide these files yourself for the program to work locally
-- ensure you only have one version of python installed. Otherwise the process gets more complicated and I wont be able to provide support as easily
+- You will need to provide these files yourself for the program to work locally.
+- Ensure you only have one version of python installed. Otherwise the process gets more complicated and I wont be able to provide support.
 
+## Install Instructions:
+- I am working on an installer that makes this process easier, but currently you will need to do these steps manually.
 ### Step 1: Clone Project Directory:
 ```
 go to the repository on github: https://github.com/HiItsMatt/EmailBot/tree/main
