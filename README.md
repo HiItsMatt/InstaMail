@@ -77,10 +77,12 @@ Contact Me
         INSTA_PASSWORD=Your_Bot_Account_Password
 
 ### Step 2. You also need to copy the InstaMail.bat file into your Startup Folder
+```
 2a. Open An instance of File Explorer and Navigate to the Project Directory
 2b. Press Windows + R to open Run
 2c. In Run type "shell:startup"
 2d. Copy InstaMail.bat from the Project Directory into your Startup Folder.
+```
 
 This will run a command on startup that starts the python script without opening a terminal window.
 
