@@ -30,10 +30,11 @@ ________________________________________________________
 ```
 An Instagram Bot that checks my emails, summarises them using ChatGPT, and sends me the summaries via my Instagram inbox
 Uses the Gmail API, OpenAI API, and a library for accessing Instagram called Instagrapi
+```
 
+```
 Created By Matthew Shanahan
-```
-```
+
 Contact Me
     Instagram:  _hi_its_matt
     Discord:    hi_its_matt
