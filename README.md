@@ -39,8 +39,6 @@ Contact Me
 - Uses the Gmail API, OpenAI API, and a library for accessing Instagram called Instagrapi
 - Also uses pystray to run as a tray application
 
-- Has a batch file in the startup folder that runs it in the background so I dont have to open it when I turn on my computer. checks the 10 most recent emails on startup, just in case it missed some while it wasnt running.
-
 ## Want to use it for yourself? You've got two options:
 
 ## Option 1: PAID || $2.50+/Month
