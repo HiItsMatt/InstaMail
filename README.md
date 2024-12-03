@@ -28,8 +28,8 @@
 |_|    |_| |_|    \_\ |_________| |_______|
 ```
 ```
-An Instagram Bot that checks my emails, summarises them using ChatGPT, and sends me the summaries
-via my Instagram inbox
+An Instagram Bot that checks your emails, summarises them using ChatGPT, and sends you the summaries
+via your Instagram inbox
 
 Uses the Gmail API, OpenAI API, and a library for accessing Instagram called Instagrapi
 Also uses pystray to run as a tray application
