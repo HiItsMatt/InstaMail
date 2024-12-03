@@ -61,7 +61,7 @@ Contact Me
 ```
 go to the repository on github: https://github.com/HiItsMatt/InstaMail
 Clone the Github repository onto your own computer
-navigate to EmailBot/Program - this is where all of the files you need to generate will go.
+navigate to InstaMail/Program - this is the directory where all of the files you need to generate will go.
 ```
 
 ### Step 2: Install Prerequisites
