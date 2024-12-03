@@ -90,7 +90,7 @@ all of these files need to be generated for the program to work.
         INSTA_USERNAME=Your_Bot_Account_Username
         INSTA_PASSWORD=Your_Bot_Account_Password
 ```
-### Step 3. copy the InstaMail.bat file into your Startup Folder
+### Step 4. copy the InstaMail.bat file into your Startup Folder
 ```
 4a. Open An instance of File Explorer and Navigate to the Project Directory
 4b. Press Windows + R to open Run
@@ -100,7 +100,7 @@ all of these files need to be generated for the program to work.
 This will run a command on startup that starts the python script without opening a terminal window.
 ```
 
-This will run a command on startup that starts the python script without opening a terminal window.
+If you have followed all the instructions, it should work! run the program manually using InstaMail.bat, as it includes a command that does not open a terminal window, which means it will not be an annoying popup on your screen.
 
 ## Feel free to contact me for support if you want help! I'm usually available on Instagram @_hi_its_matt
 
