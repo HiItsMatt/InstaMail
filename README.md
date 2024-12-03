@@ -28,12 +28,15 @@
 |_|    |_| |_|    \_\ |_________| |_______|
 ```
 ```
-An Instagram Bot that checks my emails, summarises them using ChatGPT, and sends me the summaries via my Instagram inbox
+An Instagram Bot that checks my emails, summarises them using ChatGPT, and sends me the summaries
+via my Instagram inbox
 
 Uses the Gmail API, OpenAI API, and a library for accessing Instagram called Instagrapi
 Also uses pystray to run as a tray application
 
-Has a batch file in the startup folder that runs it in the background so i dont have to open it when i turn on my computer
+Has a batch file in the startup folder that runs it in the background so I dont have to open it
+when I turn on my computer. checks the 10 most recent emails on startup, just in case it missed
+some while it wasnt running.
 ```
 
 ```
