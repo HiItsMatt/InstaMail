@@ -55,6 +55,7 @@ Contact Me
 - You will need to provide these files yourself for the program to work locally
 
 ### Step 1: Generate Required Files
+```
 1a. Program/OpenAI_API_Key.txt
 
    - The key to your OpenAI account. so OpenAI knows who to charge for the API calls.
@@ -75,7 +76,7 @@ Contact Me
    - Contents should look like this:
         INSTA_USERNAME=Your_Bot_Account_Username
         INSTA_PASSWORD=Your_Bot_Account_Password
-
+```
 ### Step 2. You also need to copy the InstaMail.bat file into your Startup Folder
 ```
 2a. Open An instance of File Explorer and Navigate to the Project Directory
