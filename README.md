@@ -45,7 +45,7 @@ Contact Me
 
 - Contact me, I can add your gmail and username to the program running on my computer and you will start receiving email updates through instagram with no effort on your behalf.
 
-- I charge $2.50/month for this service as a baseline but depending on the volume of emails I may charge more. this is because OpenAI API calls cost real money, so the price will scale depending on how many calls have to be made consider unsubscribing from spam emails to reduce the overhead cost so I can give you a better price.
+- I charge $2.50/month for this service as a baseline but depending on the volume of emails I may charge more. this is because OpenAI API calls cost real money, so the price will scale depending on how many calls have to be made. consider unsubscribing from spam emails to reduce the overhead cost so I can give you a better price.
 
 - I would love to offer this service for free - I write code out of passion instead of monetary incentive, but you can understand that it would get very expensive on my end if it was free.
 
