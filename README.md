@@ -28,7 +28,7 @@
 |_|    |_| |_|    \_\ |_________| |_______|
 
 Created By Matthew Shanahan
-Contact Me -
+Contact Me
     Instagram:  _hi_its_matt
     Discord:    hi_its_matt
     Email:      hi.its.ma77@gmail.com
