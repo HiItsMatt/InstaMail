@@ -59,7 +59,7 @@ Contact Me
 - I am working on an installer that makes this process easier, but currently you will need to do these steps manually.
 ### Step 1: Clone Project Directory:
 ```
-go to the repository on github: https://github.com/HiItsMatt/EmailBot/tree/main
+go to the repository on github: https://github.com/HiItsMatt/InstaMail
 Clone the Github repository onto your own computer
 navigate to EmailBot/Program - this is where all of the files you need to generate will go.
 ```
