@@ -61,7 +61,7 @@ I would love to offer this service for free - I write code out of passion
 instead of monetary incentive, but you can understand that it would get very
 expensive on my end if I offered this for free.
 
-# Option 2: FREE**
+# Option 2: FREE
 
 Run this program locally on your own computer. This will take some effort as this
 github repository is missing some important files because they are secret
