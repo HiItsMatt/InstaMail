@@ -4,3 +4,7 @@ Program/credentials.json
 Program/token.json
 Program/verifyToken.txt
 Program/.env
+credentials.json
+last_email_id.txt
+openai_api_key.txt
+token.json
