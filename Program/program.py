@@ -62,7 +62,9 @@ def send_insta_message(message):
         cl = Client()
 
         # Log in to Instagram
+        print("Logging into Instagram...")
         cl.login(os.getenv("INSTA_USERNAME"), os.getenv("INSTA_PASSWORD"))
+        print("Login successful!")
 
         # Define recipient and message
         recipient_username = "_hi_its_matt"  # Replace with the actual username
@@ -205,18 +207,18 @@ def load_api_key():
 # Query OpenAI to summarize the email content.
 def summarize_email(content):
     try:
-        openai.api_key = load_api_key()
-        response = openai.ChatCompletion.create(
+        client = openai.OpenAI()  # Create an OpenAI client
+        response = client.chat.completions.create(
             model="gpt-4",  # Use the correct model
             messages=[
-                {"role": "system", "content": "the prompts you recieve are emails from other people, and you should reply to me with the Subject of the email, and dot points of what is discussed, at the end of the message you should put say who the email was from as though you are the sender. you are my friendly personal assistant"},
-                {"role": "user", "content": f"{content}"}
+                {"role": "system", "content": "The prompts you receive are emails from other people. You should reply to me with the subject of the email and dot points summarizing what is discussed. At the end, state who the email was from as though you are the sender. You are my friendly personal assistant."},
+                {"role": "user", "content": content}
             ],
             max_tokens=100,
             temperature=0.7
         )
         # Extract the summary from the response
-        summary = response['choices'][0]['message']['content']
+        summary = response.choices[0].message.content
         return summary.strip()
     except Exception as e:
         print(f"Error querying OpenAI: {e}")
